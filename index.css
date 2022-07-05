@@ -1,0 +1,73 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    overflow: auto;
+    max-width: 100%;
+}
+
+body{
+    overflow: scroll;
+    width: 100%;
+    background-color: #FAFAFA;
+    margin: auto;
+}
+
+.one{
+    display: flex;
+    justify-content: space-around;
+    padding-left: 0px;
+    padding: 2px;
+
+
+}
+
+#one{
+    font-weight: bolder;
+}
+
+#button{
+    color: #FAFAFA;
+    background-color: #2549D3;
+    border-style: solid;
+    border-radius: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+
+    
+}
+
+#image1{
+    max-width: 50%;
+    height: auto;
+    float: initial;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    /* margin-right: -1340px; */
+}
+.text{
+    color: #2549D3;
+    font-style: "Oleo Script";
+}
+#home{
+    color: #2549D3;
+}
+.row-3{
+    style="display: inline";
+}
+h1{
+    color: #2549D3;
+}
+.row-4{
+    text-align: center;
+}
+
+.two{
+    width: 60%;
+    margin: auto;
+    font-size: 1vw;
+}
