@@ -2,7 +2,7 @@
 # Author
 Emmanuel Kimweli
 # Description
-This is an estate projec using css and html.
+This is an estate project implemented using css and html.
 # Technologies Used
 *HTML<br>
 *CSS
