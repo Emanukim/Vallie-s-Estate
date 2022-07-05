@@ -8,9 +8,9 @@ This is an estate projec using css and html.
 *CSS
 
 # Setup Instructions
-`git clone https://github.com/Emanukim/Estate_Project.git`
-`cd Estate_Project`
-`google-chrome index.html`
+`git clone https://github.com/Emanukim/Estate_Project.git`  
+`cd Estate_Project`  
+`google-chrome index.html`  
 
 # License 
 MIT License
