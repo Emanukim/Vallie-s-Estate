@@ -124,3 +124,29 @@ h3{
 .alex{
     display: flex;
 }
+.feature{
+    display: block;
+    text-align: center;
+}
+
+.imgfeatured{
+    width: 90%;
+}
+.big{
+    display: flex;
+    justify-content: space-around;
+}
+.big2{
+    display: block;
+    justify-content: space-around;
+    box-shadow: 2px 3px 2px 2px rgb(239, 230, 230);
+    width: 30%;
+}
+.inside{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+p1{
+    color: #2549D3;
+}
