@@ -1,4 +1,4 @@
-html,body{
+html{
     overflow: auto;
     max-width: 100%;
     font-family:'Oleo Script' ;
@@ -9,6 +9,7 @@ body{
     width: 100%;
     background-color: #FAFAFA;
     margin: auto;
+    padding: 1em;
 }
 
 .nav{
@@ -149,4 +150,25 @@ h3{
 }
 p1{
     color: #2549D3;
+}
+.why-you{
+display: flex;?
+align-items: center;
+}
+li{
+    list-style-type: circle;
+}
+.img-why{
+    width: 50%;
+    
+    
+}
+.list-why{
+    display: flex;
+    text-align: center;
+    justify-items: center;
+    justify-content: space-around;
+}
+.choice{
+    justify-content: space-around;
 }
