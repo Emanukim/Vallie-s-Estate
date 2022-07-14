@@ -21,10 +21,11 @@ body{
 }
 
 .sec-1{
-    display: inline-flex;
+    display: flex;
     justify-content: center;
     align-content: center;
     align-items: center;
+    text-align: center;
     
 
 }
@@ -45,11 +46,13 @@ body{
     background-color: #2549D3;
     border-style: solid;
     padding: 10px;
+    border-radius: 1em;
     
 }
 
 #image1{
     width: 55%;
+    float: right;
 }
 
 .sec-2{
@@ -66,13 +69,10 @@ h1{
 }
 
 #how{
-    display: flex;
-    position: relative;
-    align-items: stretch;
-    justify-content: space-around;
+    display: block;
+    text-align: center;
 
-}
-.container{
+}    .container{
     width: 100%;
     display: flex;
     justify-content: space-around;
@@ -115,4 +115,12 @@ h3{
 }
 .view{
     float: right;
+    border-radius: 1em;
+}
+.esteemed{
+     display: block;
+    text-align: center;
+}
+.alex{
+    display: flex;
 }
