@@ -101,3 +101,18 @@ h1{
     align-items: center;
     align-self: center;
 }
+.blue{
+    display: flex;
+    background-color: #2549D3;
+    color: #FAFAFA;
+    width: 100%;
+    justify-content: space-around;
+    padding-bottom: 10%;
+
+}
+h3{
+    font-family:  "Space Grotesk";
+}
+.view{
+    float: right;
+}
