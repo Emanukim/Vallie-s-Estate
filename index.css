@@ -12,17 +12,24 @@ body{
     margin: auto;
 }
 
-.one{
+.nav{
     display: flex;
     justify-content: space-around;
+    align-items: center;
     padding-left: 0px;
     padding: 2px;
 
 
 }
 
-#one{
-    font-weight: bolder;
+.section-1{
+    display: flex;
+    justify-content: space-between;
+    align-content: space-around;
+}
+.nav li{
+    display: inline;
+    justify-content: space-around;
 }
 
 #button{
@@ -66,8 +73,3 @@ h1{
     text-align: center;
 }
 
-.two{
-    width: 60%;
-    margin: auto;
-    font-size: 1vw;
-}
